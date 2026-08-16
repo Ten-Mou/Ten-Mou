@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/pt-contributers">CONTRIBUTERS</a></br>
-   𝘱𝘵'𝘴 𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥 . . . 𝘰𝘬 ? 𝘰𝘬 .
+   𝘱𝘵'𝘴 𝙖𝙬𝙚𝙨𝙤𝙢𝙚𝙙𝙧𝙤𝙞𝙙 . . . 𝘰𝘬 ? 𝘰𝘬 .
 </p>
 </br>
 <img align="left" img width="300"
