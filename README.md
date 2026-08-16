@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/pt-contributers">CONTRIBUTERS</a></br>
-   𝘱𝘵'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬}{\color{#ffc400}𝙚𝙨}{\color{#ffb300}𝙤𝙢}{\color{#ffa600}𝙚𝙙}{\color{#ff9d00}𝙧𝙤}{\color{#ff9900}𝙞𝙙}}$ . . . 𝘰𝘬 ? 𝘰𝘬 .
+   𝘱𝘵'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬}{\color{#ffc400}𝙚𝙨}{\color{#ffb300}𝙤𝙢}{\color{#ffa600}𝙚𝙙}{\color{#ff9d00}𝙧𝙤}{\color{#ff9100}𝙞𝙙}}$ . . . 𝘰𝘬 ? 𝘰𝘬 .
 </p>
 </br>
 <img align="left" img width="250"
