@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/pt-contributers">CONTRIBUTERS</a></br>
-   𝘱𝘵'𝘴 ${\textsf{\color{#ffcf00}𝙖𝙬𝙚𝙨𝙤𝙢𝙚𝙙𝙧𝙤𝙞𝙙}}$ . . . 𝘰𝘬 ? 𝘰𝘬 .
+   𝘱𝘵'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬𝙚𝙨}{\color{#ffbb00}𝙤𝙢𝙚𝙙}{\color{#ffa200}𝙧𝙤𝙞𝙙}}$ . . . 𝘰𝘬 ? 𝘰𝘬 .
 </p>
 </br>
 <img align="left" img width="250"
