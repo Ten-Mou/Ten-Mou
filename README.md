@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/pt-contributers">CONTRIBUTERS</a></br>
-   𝘱𝘰𝘯𝘺 𝘵𝘰𝘸𝘯'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬}{\color{#ffc400}𝙚𝙨}{\color{#ffb300}𝙤𝙢}{\color{#ffa600}𝙚𝙙}{\color{#ff9d00}𝙧𝙤}{\color{#ff9100}𝙞𝙙 !}}$
+   𝘱𝘰𝘯𝘺 𝘵𝘰𝘸𝘯'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬}{\color{#ffc400}𝙚𝙨}{\color{#ffb300}𝙤𝙢}{\color{#ffa600}𝙚𝙙}{\color{#ff9d00}𝙧𝙤}{\color{#ff9100}𝙞𝙙}}$ !
 </p>
 </br>
 <img align="left" img width="250"
