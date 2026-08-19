@@ -7,7 +7,7 @@
   ★</br>
   𝗮𝗻𝗴𝗶𝗲　/　𝗮𝘄𝗲𝘀𝗼𝗺𝗲𝗱𝗿𝗼𝗶𝗱</br>
   ★</br>
-  always 𝗶𝘄𝗰　-　low social battery</br>
+  always 𝗶𝘄𝗰　-　low 𝘀𝗼𝗰𝗶𝗮𝗹 𝗯𝗮𝘁𝘁𝗲𝗿𝘆　+　easily 𝗮𝗴𝗶𝘁𝗮𝘁𝗲𝗱</br>
   ★</br>
   always free to 𝗰*𝗵　!　pls 𝗱𝗼 𝗻𝗼𝘁 𝗰𝗼𝘃𝗲𝗿　.</br>
   ★
