@@ -19,7 +19,7 @@
 #
 
 <p align="center">
-  <a href="https://github.com/pt-contributers">CONTRIBUTERS</a></br>
+  <a href="https://github.com/pt-contributers">CONTRIBUTERS</a> , <a href="https://github.com/cosplaytown">COSPLAYTOWN</a></br>
    𝘱𝘰𝘯𝘺 𝘵𝘰𝘸𝘯'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬}{\color{#ffc400}𝙚𝙨}{\color{#ffb300}𝙤𝙢}{\color{#ffa600}𝙚𝙙}{\color{#ff9d00}𝙧𝙤}{\color{#ff9100}𝙞𝙙}}$　!</br>
    <img height="50" alt="Image" src="https://github.com/user-attachments/assets/ba2efd4e-85d9-4c3a-8f48-a2b863c6d1a3" title="ay carumba!"/>
 </p>
