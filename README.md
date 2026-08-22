@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://github.com/pt-contributers">CONTRIBUTERS</a> , <a href="https://github.com/cosplaytown">COSPLAYTOWN</a> , <a href="https://github.com/pt-walk-of-fame">WALK OF FAME</a></br>
    𝘱𝘰𝘯𝘺 𝘵𝘰𝘸𝘯'𝘴 $\textsf{{\color{#ffcf00}𝙖𝙬}{\color{#ffc400}𝙚𝙨}{\color{#ffb300}𝙤𝙢}{\color{#ffa600}𝙚𝙙}{\color{#ff9d00}𝙧𝙤}{\color{#ff9100}𝙞𝙙}}$　!</br>
-   <img height="50" alt="Image" src="https://github.com/user-attachments/assets/ba2efd4e-85d9-4c3a-8f48-a2b863c6d1a3" title="ay carumba!"/>
+   <img height="50" alt="Image" src="https://github.com/user-attachments/assets/ba2efd4e-85d9-4c3a-8f48-a2b863c6d1a3" title="you are loved more than you know"/>
 </p>
 <p align="center">
   <img height="154" alt="Image" src="https://github.com/user-attachments/assets/40b6620b-fccb-4b57-bfe5-ebceef4561c8" title="🌈 divider by 𝘀𝗶𝘀𝘁𝗲𝗿𝗹𝘂𝗰𝗶𝗳𝗲𝗿𝗴𝗿𝗮𝗽𝗵𝗶𝗰𝘀 on tumblr"/>
