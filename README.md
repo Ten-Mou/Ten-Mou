@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ten-Mou&label=★&color=fcbe03&style=plastic"/>
 </p>
+<p align="center">
+   <a href="https://arab.org/click-to-help/">𝗱𝗼 𝘂𝗿 𝗱𝗮𝗶𝗹𝘆 𝗰𝗹𝗶𝗰𝗸𝘀 !</a>
+</p>
 </br>
 <p align="center">
   <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/4a721941-fe38-4ae0-9b3f-8d99ccd44220" title="🌈 paw border by 𝗿𝗼𝘀𝘀𝘄𝗼𝗼𝗱𝗮𝗹𝗲𝘅 on tumblr , art from 𝗱𝗶𝗲 𝗼𝗳 𝗱𝗲𝗮𝘁𝗵 , i added the black border"/></br></br>
