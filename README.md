@@ -1,12 +1,12 @@
 <p align="center">
-  <img height="154" alt="Image" src="https://github.com/user-attachments/assets/40b6620b-fccb-4b57-bfe5-ebceef4561c8" title="divider by 𝘀𝗶𝘀𝘁𝗲𝗿𝗹𝘂𝗰𝗶𝗳𝗲𝗿𝗴𝗿𝗮𝗽𝗵𝗶𝗰𝘀 on tumblr"/>
+  <img height="154" alt="Image" src="https://github.com/user-attachments/assets/40b6620b-fccb-4b57-bfe5-ebceef4561c8" title="🌈 divider by 𝘀𝗶𝘀𝘁𝗲𝗿𝗹𝘂𝗰𝗶𝗳𝗲𝗿𝗴𝗿𝗮𝗽𝗵𝗶𝗰𝘀 on tumblr"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ten-Mou&label=★&color=fcbe03&style=plastic"/>
 </p>
 </br>
 <p align="center">
-  <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/4a721941-fe38-4ae0-9b3f-8d99ccd44220" title="paw border by 𝗿𝗼𝘀𝘀𝘄𝗼𝗼𝗱𝗮𝗹𝗲𝘅 on tumblr , art from 𝗱𝗶𝗲 𝗼𝗳 𝗱𝗲𝗮𝘁𝗵"/></br></br>
+  <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/4a721941-fe38-4ae0-9b3f-8d99ccd44220" title="🌈 paw border by 𝗿𝗼𝘀𝘀𝘄𝗼𝗼𝗱𝗮𝗹𝗲𝘅 on tumblr , art from 𝗱𝗶𝗲 𝗼𝗳 𝗱𝗲𝗮𝘁𝗵 , i added the black border"/></br></br>
   ★</br>
   𝗮𝗻𝗴𝗶𝗲　/　𝗮𝘄𝗲𝘀𝗼𝗺𝗲𝗱𝗿𝗼𝗶𝗱</br>
   ★</br>
@@ -24,5 +24,5 @@
    <img height="50" alt="Image" src="https://github.com/user-attachments/assets/ba2efd4e-85d9-4c3a-8f48-a2b863c6d1a3" title="ay carumba!"/>
 </p>
 <p align="center">
-  <img height="154" alt="Image" src="https://github.com/user-attachments/assets/40b6620b-fccb-4b57-bfe5-ebceef4561c8" title="divider by 𝘀𝗶𝘀𝘁𝗲𝗿𝗹𝘂𝗰𝗶𝗳𝗲𝗿𝗴𝗿𝗮𝗽𝗵𝗶𝗰𝘀 on tumblr"/>
+  <img height="154" alt="Image" src="https://github.com/user-attachments/assets/40b6620b-fccb-4b57-bfe5-ebceef4561c8" title="🌈 divider by 𝘀𝗶𝘀𝘁𝗲𝗿𝗹𝘂𝗰𝗶𝗳𝗲𝗿𝗴𝗿𝗮𝗽𝗵𝗶𝗰𝘀 on tumblr"/>
 </p>
